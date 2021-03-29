@@ -17,7 +17,8 @@ import { InjectedProps } from "./connectToState";
 
 const s = StyleSheet.create({
   container: {
-    alignItems: "center",
+    justifyContent: "center",
+    // alignItems: "center",
   },
   form: {
     marginTop: 20,
