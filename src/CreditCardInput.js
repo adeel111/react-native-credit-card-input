@@ -76,7 +76,7 @@ const POSTAL_CODE_INPUT_WIDTH = 120; // https://github.com/yannickcr/eslint-plug
     labels: {
       name: "CARDHOLDER'S NAME",
       number: "Número",
-      expiry: "Válido até",
+      expiry: "Validade",
       cvc: "CVC/CCV",
       postalCode: "POSTAL CODE",
     },
